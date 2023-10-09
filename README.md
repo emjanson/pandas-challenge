@@ -1,7 +1,7 @@
 # pandas-challenge
 MSU Data Analytics BootCamp Module 4 Challenge
 
-Code file name: PyCitySchools.ipynp located in the subdirectory PyCitySchools 
+Code file name: 'PyCitySchools.ipynp' located in the directory 'PyCitySchools' 
 
 This PANDAS worksheet performs the following functions:
 
